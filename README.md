@@ -1,16 +1,6 @@
 # simon-game
 A web-based implementation of the classic Simon Game
 
-Certainly! Here's a template for the README file for the Simon Game project:
-
-markdown
-Copy code
-# Simon Game
-
-![Demo](demo.gif) <!-- If you have a demo GIF or screenshot, include it here -->
-
-A web-based implementation of the classic Simon Game.
-
 The Simon Game is a memory-based game where the player must follow a pattern of lights and sounds. Here's how to play:
 
 Press the "Start" button to begin the game.
